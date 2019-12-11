@@ -1,0 +1,19 @@
+{
+  "name": "jquery-panelslider",
+  "version": "1.0.0",
+  "description": "Side panel slider plugin (jQuery) that also slides page (inspired on medium).",
+  "main": "jquery.panelslider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdemolcay/jquery-panelslider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erdemolcay/jquery-panelslider/issues"
+  },
+  "homepage": "https://github.com/erdemolcay/jquery-panelslider#readme"
+}
